@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SubSet
+comment1.params=subset
+comment1.target=void\ PrintSub(java.util.ArrayList)
+comment2.params=n\ subset
+comment2.target=void\ FindSub(int,\ java.util.ArrayList)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
