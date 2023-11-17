@@ -1,4 +1,4 @@
-# **Subset Generator Genereator**
+# **Subset Generator**
 
 This Java program is designed to find all subsets of a given set of integers. It utilizes a recursive approach to generate subsets by considering two possibilities for each element: including it in the subset or excluding it.
 
